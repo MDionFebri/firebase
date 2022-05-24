@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "908646785427",
+    "project_id": "todoapp-902a4",
+    "storage_bucket": "todoapp-902a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908646785427:android:7687d351a314f528ba4866",
+        "android_client_info": {
+          "package_name": "com.mika.todo.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908646785427-h99f8ov86bj5h6149iagbtg93kvlmgrl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClECFc_Ny4VhKr3lxlr_OhbVkDvXW9aO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "908646785427-h99f8ov86bj5h6149iagbtg93kvlmgrl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
